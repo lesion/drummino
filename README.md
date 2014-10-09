@@ -12,6 +12,5 @@ does not include .S files)
 
 The demo here is done using [Hydrogen](http://www.hydrogen-music.org/hcms/)
 
-<video width="640"  height="360" src="/example.avi"  controls preload>
 
 
