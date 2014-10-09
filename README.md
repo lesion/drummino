@@ -10,7 +10,7 @@ Makefile needs https://github.com/sudar/Arduino-Makefile/blob/master/Arduino.mk
 in /usr/share/arduino/ (packaged version from debian/ubuntu and derivated does not work because they
 does not include .S files)
 
-The demo here is done using [Hydrogen](http://www.hydrogen-music.org/hcms/)
+The demo [here](http://lesion.github.io/2014/10/09/drummino/) is done using [Hydrogen](http://www.hydrogen-music.org/hcms/)
 
 
 
